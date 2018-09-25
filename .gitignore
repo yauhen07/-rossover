@@ -1,0 +1,8 @@
+.idea
+*.iml
+target
+logs
+gherkin
+screenshots
+scratch1.json
+aemo
